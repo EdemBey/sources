@@ -1,0 +1,33 @@
+{
+	"info": {
+		"id": "en.batcave",
+		"name": "BatCave.biz",
+		"version": 1,
+		"url": "https://batcave.biz/",
+		"contentRating": 1,
+		"languages": ["en"]
+	},
+	"listings": [
+		{
+			"id": "latest",
+			"name": "Latest Manga"
+		},
+		{
+			"id": "hot",
+			"name": "Hot Manga"
+		},
+		{
+			"id": "new",
+			"name": "New Manga"
+		},
+		{
+			"id": "completed",
+			"name": "Completed Manga"
+		}
+	],
+	"config": {
+		"supportsAuthorSearch": true,
+		"supportsTagSearch": true,
+		"hidesFiltersWhileSearching": true
+	}
+}
