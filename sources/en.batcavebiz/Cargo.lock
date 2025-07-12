@@ -173,21 +173,21 @@ dependencies = [
 ]
 
 [[package]]
-name = "mangabat"
-version = "0.1.0"
-dependencies = [
- "aidoku",
- "aidoku-test",
- "mangabox",
-]
-
-[[package]]
 name = "mangabox"
 version = "0.1.0"
 dependencies = [
  "aidoku",
  "serde",
  "serde_json",
+]
+
+[[package]]
+name = "batcave"
+version = "0.1.0"
+dependencies = [
+ "aidoku",
+ "aidoku-test",
+ "mangabox",
 ]
 
 [[package]]
